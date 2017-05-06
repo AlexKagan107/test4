@@ -14,7 +14,7 @@ namespace test4.Controllers
     public class UsersController : Controller
     {
         private test4DBEntities1 db = new test4DBEntities1();
-
+        // Nativ Homo
         // GET: Users
         public async Task<ActionResult> Index()
         {
